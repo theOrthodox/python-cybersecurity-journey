@@ -1,6 +1,11 @@
 '''
 PROJECT : IPv4 VALIDATOR
 Validates IPv4 addresses accoding to standard IPv4 formatting rules
+Description:
+A Python program that validates IPv4 addresses by checking:
+- Exactly four octets
+- Numeric values only
+- Octet range between 0 and 255
 
 Author : VINIT KUMAR SINGH
 '''

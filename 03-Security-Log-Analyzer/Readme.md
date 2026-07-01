@@ -26,10 +26,14 @@ When prompted, enter the full path to your log file.
 ## Example Output
 ===== LOG ANALYSIS REPORT =====
 INFO MESSAGES    : 3
+
 WARNING MESSAGES : 2
+
 ERROR MESSAGES   : 2
 
 ## Sample Log Format
 INFO: User login successful
+
 WARNING: Multiple failed login attempts
+
 ERROR: Database connection failed

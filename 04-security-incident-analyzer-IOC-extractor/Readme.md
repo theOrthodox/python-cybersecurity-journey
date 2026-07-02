@@ -128,20 +128,6 @@ This project helped practice:
 
 ---
 
-## Future Improvements
-
-- Export report to PDF
-- Export report to JSON
-- Export report to CSV
-- Add timestamp extraction
-- Detect failed login bursts
-- IOC severity scoring
-- Command-line arguments
-- Regular Expression support
-- IPv6 support
-- Interactive dashboard
-
----
 
 ## Author
 

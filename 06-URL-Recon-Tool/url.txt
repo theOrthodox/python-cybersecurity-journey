@@ -1,0 +1,11 @@
+https://google.com
+https://httpbin.org/status/404
+https://httpbin.org/status/500
+https://httpbin.org/redirect/3
+https://httpbin.org/delay/10
+https://this-does-not-exist-at-all.com
+https://google.com
+https://github.com
+https://google.com/404
+https://microsoft.com
+https://this-does-not-exist-at-all.xyz
